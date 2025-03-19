@@ -3,33 +3,33 @@
 ### 👋 Who I Am  
 I'm a **software engineer** passionate about **building scalable web and mobile applications**. Currently, I’m developing a **customizable digital loyalty app** for small businesses using **Flutter and Supabase**.  
 
----
+
 
 ## 🔭 What I'm Working On  
 - 🚀 **Developing a digital loyalty app** for small businesses using **Flutter & Supabase**.  
 - 💡 Exploring **privacy-friendly tracking and advertising** solutions.  
 - 🏗️ Improving **Next.js & Tailwind** skills to refine my admin dashboard UI.  
 
----
+
 
 ## 🛠 Open to Collaborations  
 - 🎯 **Web & mobile app projects** that push the boundaries of user experience.  
 - 🔍 **SaaS solutions** that enhance business efficiency & user engagement.  
 - ☁️ **Scalable & serverless architectures** using **AWS & Supabase**.  
 
----
+
 
 ## 🤝 Looking for Help With  
 - 📈 **Marketing & growth strategies** for my digital loyalty app.  
 - 🤖 **Exploring AI/ML** to integrate intelligent features into my projects.  
 
----
+
 
 ## 🌱 What I'm Learning  
 - 📱 **Advanced Flutter & Supabase** for seamless cross-platform development.  
 - 🖥️ **Next.js & Tailwind** to build modern, high-performance dashboards.  
 
----
+
 
 ## 💬 Ask Me About  
 - 🛠️ **Full-stack development** with **React, Next.js, and Node.js**.  
@@ -37,13 +37,13 @@ I'm a **software engineer** passionate about **building scalable web and mobile 
 - 🎁 **Creating digital loyalty programs** for small businesses.  
 - 🛍️ **Optimizing UX** in e-commerce & SaaS platforms.  
 
----
+
 
 ## ⚡ Fun Fact  
 I'm an **amateur photographer** who loves capturing **breathtaking landscapes, astrophotography, and macro photography**! 📷✨  
 
 ---
----
+
 
 ## 🚀 Projects  
 
